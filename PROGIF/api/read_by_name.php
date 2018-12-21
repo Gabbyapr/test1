@@ -37,6 +37,7 @@
         'body' => html_entity_decode($body),
         'author' => $author,
         //'product_id' => $product_id,
+        'created at' => $created_at,
         
       );
 
